@@ -5,6 +5,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>personliste</title>
+    <style>
+        img {
+            max-width: 300px;
+        }
+
+    </style>
 </head>
 
 <body>
@@ -14,13 +20,13 @@
             <article>
                 <h2 id="data-navn"></h2>
                 <p id="data-github"></p>
-                <p id="data-website"></p>
-<p id="data-mail"></p>
+                Website: <a class="data-website" href=""></a><br>
+                mail: <a class="data-mail" href=""></a>
                 <p id="data-adresse"></p>
                 <p id="data-alder"></p>
                 <p id="data-civilstatus"></p>
                 <p id="data-tlf"></p>
-                <p id="data-facebook"></p>
+                facebook: <a class="data-facebook" href=""></a>
                 <p id="data-hobby"></p>
                 <p id="data-sex"></p>
                 <img src="" alt="">
@@ -57,16 +63,23 @@
                 let klon = temp.cloneNode(true).content;
                 klon.querySelector("h2").textContent = person.navn;
                 klon.querySelector("#data-github").textContent = person.github;
-                klon.querySelector("#data-website").textContent = person.website;
-                klon.querySelector("#data-mail").textContent = person.mail;
+                klon.querySelector(".data-website").textContent = person.website;
+                klon.querySelector(".data-website").href = person.website;
+
                 klon.querySelector("#data-adresse").textContent = person.adresse;
                 klon.querySelector("#data-alder").textContent = person.alder;
                 klon.querySelector("#data-civilstatus").textContent = person.civilstatus;
                 klon.querySelector("#data-tlf").textContent = person.tlf;
-                klon.querySelector("#data-facebook").textContent = person.facebook;
+
                 klon.querySelector("#data-hobby").textContent = person.hobby;
                 klon.querySelector("#data-sex").textContent = person.sex;
                 klon.querySelector("img").src = person.billede;
+
+
+                klon.querySelector(".data-facebook").textContent = person.facebook;
+                klon.querySelector(".data-facebook").href = person.facebook;
+                klon.querySelector(".data-mail").textContent = person.mail;
+                klon.querySelector(".data-mail").href = "mailto:" + person.mail;
 
 
 
