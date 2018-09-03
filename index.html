@@ -8,17 +8,27 @@
     <style>
         img {
             max-width: 300px;
+            margin-left: 50px;
         }
+
+
 
         article {
             clear: both;
             border: 1px solid #666;
+            padding: 20px;
         }
 
         section {
             display: grid;
-
             grid-gap: 10px;
+            grid-template-columns: 450px 450px 450px;
+            grid-template-rows: 950px;
+
+        }
+
+        p {
+            line-height: 2px;
         }
 
     </style>
@@ -30,15 +40,22 @@
         <template id="personliste-template">
             <article>
                 <h2 id="data-navn"></h2>
+                <strong>Github-navn:</strong>
                 <p id="data-github"></p>
-                Website: <a class="data-website" href=""></a><br>
-                mail: <a class="data-mail" href=""></a>
+                <strong>Website:</strong> <br><a class="data-website" href=""></a> <br>
+                <strong>Mail:</strong> <br><a class="data-mail" href=""></a> <br>
+                <strong>Adresse:</strong>
                 <p id="data-adresse"></p>
+                <strong>Alder:</strong>
                 <p id="data-alder"></p>
+                <b>Civilstatus:</b>
                 <p id="data-civilstatus"></p>
+                <b>Telefon Nr:</b>
                 <p id="data-tlf"></p>
-                facebook: <a class="data-facebook" href=""></a>
+                <b>Facebook:</b> <a class="data-facebook" href=""></a>
+                <b>Hobby:</b>
                 <p id="data-hobby"></p>
+                <b>Sex</b>
                 <p id="data-sex"></p>
                 <img src="" alt="">
             </article>
