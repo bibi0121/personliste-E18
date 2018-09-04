@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hent JSON</title>
+    <style>
+        body {
+            background-color: rgb(240, 240, 240);
+        }
+
+        article {
+            padding: 1em;
+            background-color: white;
+        }
+
+        .data-container article img {
+            width: 100%;
+        }
+
+        .data-container {
+            margin: 0 auto;
+            display: grid;
+        }
+
+        @media screen and (min-width:580px) {
+            .data-container {
+                padding-left: 10%;
+                padding-right: 10%;
+                grid-gap: 5px;
+                grid-template-columns: repeat(1, 1fr);
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+    <main class="container">
+        <section class="data-container">
+            <article class="person">
+                <h2>HHJHG</h2>
+                <br> mail:
+                <a class="data-mail" href=""></a>
+                <br> github: <span class="data-github"></span>
+                <br> tlf: <span class="data-tlf"></span>
+                <br>
+                <img src="" alt="">
+            </article>
+        </section>
+    </main>
+
+    <script>
+        let urlParams = new URLSearchParams(window.location.search);
+        let github = urlParams.get("github");
+        console.log(github);
+
+        let personer;
+        document.addEventListener("DOMContentLoaded", hentJson);
+
+        async function hentJson() {
+            let myJson = await fetch("personliste.json");
+            personer = await myJson.json();
+            visPerson();
+        }
+
+        function visPerson() {
+            let dest = document.querySelector(".data-container");
+            //løb personlisten igennem og lav en klon
+            personer.forEach(person => {
+                if (person.github == github) {
+                    dest.querySelector("h2").textContent = person.navn;
+                    dest.querySelector("img").src = person.billede;
+                    dest.querySelector(".data-github").textContent = person.github;
+                    dest.querySelector(".data-tlf").textContent = person.tlf;
+                    dest.querySelector(".data-mail").textContent = person.mail;
+                    dest.querySelector(".data-mail").href = "mailto:" + person.mail;
+                }
+            });
+        }
+
+    </script>
+</body>
+
+</html>

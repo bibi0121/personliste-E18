@@ -1,79 +1,18 @@
 [
     {
-        "navn": "Martin Bregnhøi",
-        "github": "martinbregnhoi",
-        "website": "http://mabe-kea.dk",
-        "mail": "mabe@kea.dk",
-        "adresse": "København",
-        "alder": 57,
-        "civilstatus": "gift",
-        "tlf": 28292659,
-        "facebook": "",
-        "hobby": "sejlads",
-        "sex": "mand",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Helle Frederiksen",
-        "github": "helefred",
-        "website": "helf-kea.dk",
-        "mail": "helf@kea.dk",
-        "adresse": "Roskilde",
-        "alder": 62,
-        "civilstatus": "gift",
-        "tlf": 31166772,
-        "facebook": "",
-        "hobby": "have",
-        "sex": "F",
-        "billede": "http://helf-kea.dk/helleb.jpg",
-        "": ""
-  },
-    {
-        "navn": "Kamilla Viktor",
-        "github": "kvikea",
-        "website": "http://kvikea.dk/",
-        "mail": "kvi@kea.dk",
-        "adresse": "København",
-        "alder": 58,
-        "civilstatus": "Uforlovet",
-        "tlf": 51519905,
-        "facebook": "",
-        "hobby": "",
-        "sex": "F",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Charlotte Stølås",
-        "github": "char9332",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
         "navn": "Tobias Jung Zagal",
         "github": "TobiasJZagal",
         "website": "tobiasjzagal.dk",
         "mail": "tobiaszagal@gmail.com",
         "adresse": "rådmand steins alle",
         "alder": 22,
-        "civilstatus": "yeet",
+        "civilstatus": "single",
         "tlf": 20137207,
         "facebook": "https://www.facebook.com/tobiasjung.zagal",
         "hobby": "maymay",
         "sex": "M",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/31059638_1879135388774529_2487065812783857664_n.jpg?_nc_cat=0&oh=e8019b7139e862f184af1c173decf179&oe=5C3B5A17",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/31059638_1879135388774529_2487065812783857664_n.jpg?_nc_cat=0&oh=e8019b7139e862f184af1c173decf179&oe=5C3B5A17"
+},
     {
         "navn": "Cecilie Wig",
         "github": "ceci5592",
@@ -81,14 +20,13 @@
         "mail": "ceci5592@stud.kea.dk",
         "adresse": "Robert Jacobsens Vej 61, 2300, Kbh S",
         "alder": 24,
-        "civilstatus": "Single",
+        "civilstatus": "single",
         "tlf": 60210692,
         "facebook": "https://www.facebook.com/cecilie.wig",
         "hobby": "Fredagsbar",
         "sex": "F",
-        "billede": "http://ceciliewig.com/kea/selvportraet.jpeg",
-        "": ""
-  },
+        "billede": "http://ceciliewig.com/kea/selvportraet.jpeg"
+},
     {
         "navn": "Meha Karimi",
         "github": "Mehabad",
@@ -100,40 +38,9 @@
         "tlf": 53265824,
         "facebook": "",
         "hobby": "fotograf",
-        "sex": "f",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/30443102_10156255986458158_4939154592841677761_n.jpg?_nc_cat=0&oh=c9eb88fc98f59110046adc2e7266cef3&oe=5BF451AD",
-        "": ""
-  },
-    {
-        "navn": "Bibi Hagenow",
-        "github": "bibi0121",
-        "website": "designhagenow.dk",
-        "mail": "bibi_hagenow@hotmail.com",
-        "adresse": "Dalvangsvej 42, st, -2, 2600 Glostrup",
-        "alder": 21,
-        "civilstatus": "Optaget",
-        "tlf": 42124418,
-        "facebook": "https://www.facebook.com/bib.hagenow",
-        "hobby": "Håndbold",
         "sex": "F",
-        "billede": "http://designhagenow.dk/kea/selvportraet.png",
-        "": ""
-  },
-    {
-        "navn": "Rikke Krogh",
-        "github": "rikk626a",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/30443102_10156255986458158_4939154592841677761_n.jpg?_nc_cat=0&oh=c9eb88fc98f59110046adc2e7266cef3&oe=5BF451AD"
+},
     {
         "navn": "Emma Viola Ryom",
         "github": "emma2468",
@@ -146,9 +53,8 @@
         "facebook": "https://www.facebook.com/emmaviola.ryom",
         "hobby": "",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/20139587_10214254041772073_7393280305465421415_n.jpg?_nc_cat=0&oh=8997b56e7f6b49449efebc1f19e11275&oe=5C2E96BE",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/20139587_10214254041772073_7393280305465421415_n.jpg?_nc_cat=0&oh=8997b56e7f6b49449efebc1f19e11275&oe=5C2E96BE"
+},
     {
         "navn": "Stefani Arsovic",
         "github": "stef7528",
@@ -156,14 +62,13 @@
         "mail": "arsovicstefani@hotmail.com",
         "adresse": "Hiort Lorenzens gade 4",
         "alder": 24,
-        "civilstatus": "I forhold",
+        "civilstatus": "optaget",
         "tlf": 20616462,
         "facebook": "https://www.facebook.com/stefani.arsovic",
         "hobby": "Nyde livet",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/15940467_10210766632909259_6067766969001562729_n.jpg?_nc_cat=0&oh=c76c589b923cb196eb5fbf530381882f&oe=5BF152FB",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/15940467_10210766632909259_6067766969001562729_n.jpg?_nc_cat=0&oh=c76c589b923cb196eb5fbf530381882f&oe=5BF152FB"
+},
     {
         "navn": "Philip Stampe",
         "github": "phil2176",
@@ -171,59 +76,13 @@
         "mail": "philipstampe7@gmail.com",
         "adresse": "pommernsgade 12c",
         "alder": 21,
-        "civilstatus": "Single",
+        "civilstatus": "single",
         "tlf": 40933119,
         "facebook": "https://www.facebook.com/philip.stampe.9?ref=bookmarks",
         "hobby": "Basketball",
         "sex": "M",
-        "billede": "http://philipstampe.dk/kea/1.Semester_Portfolio/IMG/PBP.png",
-        "": ""
-  },
-    {
-        "navn": "Helena Villemoes",
-        "github": "hele4509",
-        "website": "http://www.helenaemilie.dk/",
-        "mail": "hele4509@stud.kea.dk",
-        "adresse": "Søborg",
-        "alder": 19,
-        "civilstatus": "optaget",
-        "tlf": 60487494,
-        "facebook": "https://www.facebook.com/helena.villemoes",
-        "hobby": "",
-        "sex": "Kvinde",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Mie Thorup Poulsen",
-        "github": "miex0840",
-        "website": "miepoulsen.dk",
-        "mail": "miepoulsen@live.dk",
-        "adresse": "Munkholmvej 382, 4060 Kirke Saaby",
-        "alder": 24,
-        "civilstatus": "single",
-        "tlf": 21641998,
-        "facebook": "https://www.facebook.com/miethoruppoulsen",
-        "hobby": "Arbejde",
-        "sex": "kvinde",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Cilie Hodal Nielsen",
-        "github": "ciliehodalnielsen",
-        "website": "ciliehodal.dk",
-        "mail": "cili0073@stud.kea.dk",
-        "adresse": "Stockflethsvej 17",
-        "alder": 24,
-        "civilstatus": "single",
-        "tlf": 28430796,
-        "facebook": "https://www.facebook.com/cilie.hodalnielsen",
-        "hobby": "",
-        "sex": "kvinde",
-        "billede": "",
-        "": ""
-  },
+        "billede": "http://philipstampe.dk/kea/1.Semester_Portfolio/IMG/PBP.png"
+},
     {
         "navn": "Kenny Kennedy",
         "github": "kenn5435",
@@ -236,69 +95,8 @@
         "facebook": "https://www.facebook.com/DontkillkennyDk",
         "hobby": "mama shark do do",
         "sex": "M",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/27067326_10214913448092552_8919448125423209472_n.jpg?_nc_cat=0&oh=20bb918cfcdd6ce9666ed01cfaae279a&oe=5BF14FCB",
-        "": ""
-  },
-    {
-        "navn": "Camilla Pedersen",
-        "github": "cumulli",
-        "website": "camilla-pedersen.dk",
-        "mail": "cami727q@stud.kea.dk",
-        "adresse": "sudergade, 3000 helsingør",
-        "alder": 31,
-        "civilstatus": "optaget",
-        "tlf": 60153540,
-        "facebook": "https://www.facebook.com/camilla.pedersen.16718",
-        "hobby": "Katte",
-        "sex": "kvinde",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Daiana Panescu",
-        "github": "cris0237",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Shawna Mercano",
-        "github": "shaw0052",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Yasmin Ouaich",
-        "github": "yasm0217",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/27067326_10214913448092552_8919448125423209472_n.jpg?_nc_cat=0&oh=20bb918cfcdd6ce9666ed01cfaae279a&oe=5BF14FCB"
+},
     {
         "navn": "Toni Nguyen",
         "github": "Liighght",
@@ -311,24 +109,8 @@
         "facebook": "https://www.facebook.com/toni.nguyen.14",
         "hobby": "",
         "sex": "M",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/21768162_10214925299670537_5889669475465680983_n.jpg?_nc_cat=0&oh=3714e294377db366fb5553d5ee1b2e91&oe=5C348092",
-        "": ""
-  },
-    {
-        "navn": "Simone Grauer",
-        "github": "simo085f",
-        "website": "simonegrauer.dk",
-        "mail": "simo085f@stud.kea.dk",
-        "adresse": "Nordvest",
-        "alder": 22,
-        "civilstatus": "single",
-        "tlf": "",
-        "facebook": "https://www.facebook.com/simone.grauer",
-        "hobby": "hunde",
-        "sex": "Kvinde",
-        "billede": "",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/21768162_10214925299670537_5889669475465680983_n.jpg?_nc_cat=0&oh=3714e294377db366fb5553d5ee1b2e91&oe=5C348092"
+},
     {
         "navn": "Marie Bügel Moldow",
         "github": "moldow",
@@ -341,9 +123,8 @@
         "facebook": "https://www.facebook.com/marie.moldow",
         "hobby": "",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/14238102_10154381214423567_5500020192052023569_n.jpg?_nc_cat=0&oh=046f1adc9d2a9ba45c3cdbffb0cad19c&oe=5BEE670E",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/14238102_10154381214423567_5500020192052023569_n.jpg?_nc_cat=0&oh=046f1adc9d2a9ba45c3cdbffb0cad19c&oe=5BEE670E"
+},
     {
         "navn": "mille Wienberg",
         "github": "milleprintzlau",
@@ -356,39 +137,8 @@
         "facebook": "https://www.facebook.com/mille.wienberg",
         "hobby": "Blive tisset på",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/36925684_10217218475078786_1063218308016242688_n.jpg?_nc_cat=0&oh=de1eadd6db625b0716bc710406c41d6b&oe=5C37162D",
-        "": ""
-  },
-    {
-        "navn": "Louise Holbek",
-        "github": "LouiseHolbek",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Miranda Mwanza Hansen",
-        "github": "mira0396",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/36925684_10217218475078786_1063218308016242688_n.jpg?_nc_cat=0&oh=de1eadd6db625b0716bc710406c41d6b&oe=5C37162D"
+},
     {
         "navn": "Nico Hansen",
         "github": "nico6974",
@@ -396,14 +146,13 @@
         "mail": "nicohansen.private@gmail.com",
         "adresse": "Hvidovregade 33c, st.mf",
         "alder": 24,
-        "civilstatus": "Single",
+        "civilstatus": "single",
         "tlf": 30307049,
         "facebook": "https://www.facebook.com/nico.r.hansen",
         "hobby": "AURALIST",
         "sex": "M",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/34340336_1607859172645648_5841655963559395328_n.jpg?_nc_cat=0&oh=62fba774e789cf8516ed5dcd6d2f477d&oe=5C391AD7",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/34340336_1607859172645648_5841655963559395328_n.jpg?_nc_cat=0&oh=62fba774e789cf8516ed5dcd6d2f477d&oe=5C391AD7"
+},
     {
         "navn": "Erik Christian Røhl Granberg",
         "github": "erik8036granberg",
@@ -411,14 +160,13 @@
         "mail": "mail@erik-crg.dk",
         "adresse": "Grønnehøj 11, 1. th., 2720 Vanløse",
         "alder": 41,
-        "civilstatus": "Ringmærket",
+        "civilstatus": "optaget",
         "tlf": 53584244,
         "facebook": "https://www.facebook.com/erikcrgranberg",
         "hobby": "Guitar",
         "sex": "M",
-        "billede": "http://erik-crg.dk/kea/selvportraet.jpg",
-        "": ""
-  },
+        "billede": "http://erik-crg.dk/kea/selvportraet.jpg"
+},
     {
         "navn": "Jeanette Madsen",
         "github": "jean9514",
@@ -431,24 +179,8 @@
         "facebook": "https://www.facebook.com/jeanettesofie.bundgaardmadsen",
         "hobby": "",
         "sex": "F",
-        "billede": "https://www.facebook.com/photo.php?fbid=1756258707794421&set=a.102536493166659&type=3&source=11&referrer_profile_id=100002309259691",
-        "": ""
-  },
-    {
-        "navn": "Jakob Falkenberg Hansen",
-        "github": "jako2889",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-1/p720x720/36838645_1756258711127754_2247278450073141248_n.jpg?_nc_cat=0&oh=d64efd2c0e59fd93503e14804bb6faa2&oe=5C31756C"
+},
     {
         "navn": "Celina Lindqvist",
         "github": "Celi0242",
@@ -461,9 +193,8 @@
         "facebook": "https://www.facebook.com/celina.lindqvist",
         "hobby": "Fodbold",
         "sex": "F",
-        "billede": "http://celinalindqvist.dk/kea/selvportraet.jpeg",
-        "": ""
-  },
+        "billede": "http://celinalindqvist.dk/kea/selvportraet.jpeg"
+},
     {
         "navn": "isabella Bilsteen",
         "github": "isab4202",
@@ -476,9 +207,8 @@
         "facebook": "https://www.facebook.com/isabella.funckbilsteen",
         "hobby": "GitHub",
         "sex": "F",
-        "billede": "http://isabellabilsteen.com/kea/selvportraet.jpg",
-        "": ""
-  },
+        "billede": "http://isabellabilsteen.com/kea/selvportraet.jpg"
+},
     {
         "navn": "Karoline Lüthje",
         "github": "karo0052",
@@ -486,14 +216,13 @@
         "mail": "karo0052@hotmail.com",
         "adresse": "Vej 1, 1234 Droemmeland",
         "alder": 25,
-        "civilstatus": "Optaget",
+        "civilstatus": "optaget",
         "tlf": 31414440,
         "facebook": "https://www.facebook.com/profile.php?id=532961069",
         "hobby": "Samba og krea'ting",
         "sex": "F",
-        "billede": "http://byluethje.com/kea/selvportraet.jpg",
-        "": ""
-  },
+        "billede": "http://byluethje.com/kea/selvportraet.jpg"
+},
     {
         "navn": "Helena Schaadt",
         "github": "schaadt94",
@@ -501,14 +230,13 @@
         "mail": "schaadt_design@hotmail.com",
         "adresse": "Grønnevej 259 st 41 2830 virum",
         "alder": 24,
-        "civilstatus": "Optaget",
+        "civilstatus": "optaget",
         "tlf": 31259686,
         "facebook": "https://www.facebook.com/helena.schaadt.5",
         "hobby": "Afslapning",
         "sex": "F",
-        "billede": "http://schaadtdesign.dk/kea/mig.jpg",
-        "": ""
-  },
+        "billede": "http://schaadtdesign.dk/kea/mig.jpg"
+},
     {
         "navn": "Julieh Bjerning",
         "github": "juli9834",
@@ -521,9 +249,8 @@
         "facebook": "https://www.facebook.com/julieh.bjerning?ref=bookmarks",
         "hobby": "spil og bøger",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/36416523_10214429541627123_5667771824579018752_n.jpg?_nc_cat=0&oh=fc0ce4eae36ffe6ccfa982f705b14253&oe=5BF1A955",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/36416523_10214429541627123_5667771824579018752_n.jpg?_nc_cat=0&oh=fc0ce4eae36ffe6ccfa982f705b14253&oe=5BF1A955"
+},
     {
         "navn": "Søren Rembøll",
         "github": "soer145a",
@@ -535,10 +262,9 @@
         "tlf": 22258809,
         "facebook": "https://www.facebook.com/profile.php?id=100001055303106&ref=bookmarks",
         "hobby": "Bøger og andet nørdet",
-        "sex": "Mand",
-        "billede": "http://soren-remboll.com/kea/selvportraet.jpeg",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "http://soren-remboll.com/kea/selvportraet.jpeg"
+},
     {
         "navn": "Miklas Bøgvald",
         "github": "mBoegvald",
@@ -546,14 +272,13 @@
         "mail": "miklasbogvald@gmail.com",
         "adresse": "Godstedvej 11",
         "alder": 21,
-        "civilstatus": "Single",
+        "civilstatus": "single",
         "tlf": 27890855,
         "facebook": "https://www.facebook.com/profile.php?id=1826551423",
         "hobby": "Fitness",
         "sex": "M",
-        "billede": "http://mboegvald.dk/kea/portraet.jpg",
-        "": ""
-  },
+        "billede": "http://mboegvald.dk/kea/portraet.jpg"
+},
     {
         "navn": "Mikkel Low Madsen",
         "github": "mikk837k",
@@ -561,44 +286,13 @@
         "mail": "mikk837k@stud.kea.dk",
         "adresse": "Kirkebjerg Allé 54, 2605 Brøndby",
         "alder": 30,
-        "civilstatus": "I et forhold",
+        "civilstatus": "optaget",
         "tlf": 26197260,
         "facebook": "https://www.facebook.com/mikkel.l.madsen",
         "hobby": "Gaming, DIY",
-        "sex": "Mand",
-        "billede": "http://lowson.dk/kea/selvportraet.jpeg",
-        "": ""
-  },
-    {
-        "navn": "Alexander Hjorth",
-        "github": "Alexanderhjorth",
-        "website": "Alexanderhjorth.dk",
-        "mail": "alex5725@stud.kea.dk",
-        "adresse": "Teglholm tværvej 5, 4 t.v 2450 SV",
-        "alder": 22,
-        "civilstatus": "I et forhold",
-        "tlf": 20446250,
-        "facebook": "https://www.facebook.com/alexander.hjorth.7",
-        "hobby": "Styrketræning",
-        "sex": "Mand",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Mikkel Thorbøll Jensen",
-        "github": "mikk199c",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "http://lowson.dk/kea/selvportraet.jpeg"
+},
     {
         "navn": "David Fraenkel",
         "github": "Davi1360",
@@ -610,10 +304,9 @@
         "tlf": 4540777610,
         "facebook": "https://www.facebook.com/david.fraenkel.9",
         "hobby": "afslapning",
-        "sex": "male",
-        "billede": "http://www.davidfraenkeldesigns.dk/kea/selvportraet.jpeg",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "http://www.davidfraenkeldesigns.dk/kea/selvportraet.jpeg"
+},
     {
         "navn": "Fríðbjartur Miðberg",
         "github": "fibi-kea",
@@ -621,104 +314,13 @@
         "mail": "fridbjartur@midberg.com",
         "adresse": "Dalslandsgade 8L",
         "alder": 26,
-        "civilstatus": "I et forhold",
+        "civilstatus": "optaget",
         "tlf": 93870787,
         "facebook": "https://www.facebook.com/Fridbjartur",
         "hobby": "Vandring",
-        "sex": "Mand",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/38716371_2346302102076883_6862782690131705856_o.jpg?_nc_cat=0&oh=0e5a73863bc3efcc1fb1b5e29082a7ef&oe=5BF37282",
-        "": ""
-  },
-    {
-        "navn": "Lonni Sandbjerg",
-        "github": "lonn0688",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Jakob Fini Pind",
-        "github": "JakobFini",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Kasper Lohmann",
-        "github": "kasp060s",
-        "website": "kasperlohmann.dk",
-        "mail": "lohmannkasper@gmail.com",
-        "adresse": "",
-        "alder": 31,
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "https://www.facebook.com/kasper.lohmann",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Mads Køllgaard",
-        "github": "mads73b9",
-        "website": "multimediamads.com",
-        "mail": "mads73b9@stud.kea.dk",
-        "adresse": "Borups Alle 208",
-        "alder": 39,
-        "civilstatus": "Ja",
-        "tlf": 29281540,
-        "facebook": "https://www.facebook.com/madskollgaard",
-        "hobby": "",
-        "sex": "Ciskønnet mand",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Ann-Cathrine Rino",
-        "github": "acrinoo",
-        "website": "acrdesign.dk",
-        "mail": "ancarino@gmail.com",
-        "adresse": "Nørre Søgade 8",
-        "alder": 30,
-        "civilstatus": "single",
-        "tlf": 60161187,
-        "facebook": "",
-        "hobby": "kiddo",
-        "sex": "kvinde",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Sarah Jane Brandt",
-        "github": "sara175k",
-        "website": "sarahjane.dk",
-        "mail": "sarah175k@stud.kea.dk",
-        "adresse": "Rødovre 2610",
-        "alder": 21,
-        "civilstatus": "single",
-        "tlf": 20661914,
-        "facebook": "https://www.facebook.com/Sarah.Jane1997",
-        "hobby": "",
-        "sex": "kvinde",
-        "billede": "",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/38716371_2346302102076883_6862782690131705856_o.jpg?_nc_cat=0&oh=0e5a73863bc3efcc1fb1b5e29082a7ef&oe=5BF37282"
+},
     {
         "navn": "Amber Theil",
         "github": "AmberTheil",
@@ -726,14 +328,13 @@
         "mail": "ambertheil96@gmail.com",
         "adresse": "Bispebjerg Bakke 2400",
         "alder": 22,
-        "civilstatus": "Single",
+        "civilstatus": "single",
         "tlf": 23800485,
         "facebook": "https://www.facebook.com/amber.theil",
         "hobby": "Fie Lauersen",
-        "sex": "KVINDE",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/12804741_10206305427414879_7885146816091406320_n.jpg?_nc_cat=0&oh=02ee7c17bc591d16c26930d209b1bf75&oe=5BF881B2",
-        "": ""
-  },
+        "sex": "F",
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/12804741_10206305427414879_7885146816091406320_n.jpg?_nc_cat=0&oh=02ee7c17bc591d16c26930d209b1bf75&oe=5BF881B2"
+},
     {
         "navn": "Laurits Faber",
         "github": "Lauritsfaber",
@@ -741,74 +342,13 @@
         "mail": "Laurits_faber@hotmail.com",
         "adresse": "Wesselsgade 20b",
         "alder": 23,
-        "civilstatus": "Lykkelig gift",
+        "civilstatus": "optaget",
         "tlf": 20666637,
         "facebook": "https://www.facebook.com/profile.php?id=1356100612",
         "hobby": "Drille mille",
-        "sex": "Mand",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/35296326_10216332368885944_478905861574492160_o.jpg?_nc_cat=0&oh=e4078a4c36cdb394cd3a4d0d7f17fd26&oe=5BF21152",
-        "": ""
-  },
-    {
-        "navn": "Mikkel  Sørensen",
-        "github": "mikk643i",
-        "website": "thejarisunderthebed.com",
-        "mail": "mikk643i@stud.kea.dk",
-        "adresse": "Toldskrivervej 2, 4th",
-        "alder": 30,
-        "civilstatus": "I et forhold",
-        "tlf": 21763742,
-        "facebook": "https://www.facebook.com/profile.php?id=751258209",
-        "hobby": "",
-        "sex": "Male",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Oliver Winfield",
-        "github": "oliv1619",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Ida Emilie Munch Amdisen",
-        "github": "IdaMunch",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Magnus Simon Vagn Jensen",
-        "github": "magn3506",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/35296326_10216332368885944_478905861574492160_o.jpg?_nc_cat=0&oh=e4078a4c36cdb394cd3a4d0d7f17fd26&oe=5BF21152"
+},
     {
         "navn": "Cecilia Engelbrecht Toll Söderblom",
         "github": "ceci7307",
@@ -816,14 +356,13 @@
         "mail": "ceci7307@stud.kea.sk",
         "adresse": "Godsbanegade 19, 3 tv, 1722 København V",
         "alder": 21,
-        "civilstatus": "Optaget",
+        "civilstatus": "optaget",
         "tlf": 60485069,
         "facebook": "https://www.facebook.com/cecilia.soderblom",
         "hobby": "Mad, bold, rejser",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/40112775_10213982735177535_3604102616524521472_o.jpg?_nc_cat=0&oh=8ea51ddf27621e64575e3b729dedb86b&oe=5BF6A7CC",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/40112775_10213982735177535_3604102616524521472_o.jpg?_nc_cat=0&oh=8ea51ddf27621e64575e3b729dedb86b&oe=5BF6A7CC"
+},
     {
         "navn": "Rebecca Mortensen",
         "github": "rebe4175",
@@ -836,9 +375,8 @@
         "facebook": "https://www.facebook.com/rebecca.mortensen.7",
         "hobby": "Min kat",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/35485146_1938651289491952_4480402874077020160_n.jpg?_nc_cat=0&oh=acff4c4d2ad2d0232d5cf7327188071b&oe=5C37EBA2",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/35485146_1938651289491952_4480402874077020160_n.jpg?_nc_cat=0&oh=acff4c4d2ad2d0232d5cf7327188071b&oe=5C37EBA2"
+},
     {
         "navn": "Rasmus Moldberg Kjeldsen",
         "github": "Rasmusmkj",
@@ -846,29 +384,13 @@
         "mail": "rasmusmkjeldsen@gmail.com",
         "adresse": "Kildebakkegårds alle 180, st. th.",
         "alder": 23,
-        "civilstatus": "Unassisted",
+        "civilstatus": "single",
         "tlf": 41489632,
         "facebook": "https://www.facebook.com/Roldsen",
         "hobby": "Din mor",
-        "sex": "Ja tak",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/20992887_936432639832894_8682539044145500560_n.jpg?_nc_cat=0&oh=a8229eb1aa30f8e4f829f2128276ea14&oe=5BF288DD",
-        "": ""
-  },
-    {
-        "navn": "Rebecca Skytte Nielsen",
-        "github": "rebe0956",
-        "website": "rebeccaskytte.com",
-        "mail": "love.is@live.dk",
-        "adresse": "montagehalsvej 2.2,2",
-        "alder": 21,
-        "civilstatus": "optaget",
-        "tlf": 51171504,
-        "facebook": "https://www.facebook.com/rebecca.skytte",
-        "hobby": "netflix",
-        "sex": "pige",
-        "billede": "",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/20992887_936432639832894_8682539044145500560_n.jpg?_nc_cat=0&oh=a8229eb1aa30f8e4f829f2128276ea14&oe=5BF288DD"
+},
     {
         "navn": "Emil Elley",
         "github": "pede3586",
@@ -876,14 +398,13 @@
         "mail": "pede3586@stud.kea.dk",
         "adresse": "4200 Slagelse",
         "alder": 28,
-        "civilstatus": "Single",
+        "civilstatus": "single",
         "tlf": 25623033,
         "facebook": "https://www.facebook.com/profile.php?id=100010337705826",
         "hobby": "Sea of Thieves, klaver",
-        "sex": "m2f",
-        "billede": "http://www.emilyn.dk/kea/portfolio/portraet.jpg",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "http://www.emilyn.dk/kea/portfolio/portraet.jpg"
+},
     {
         "navn": "Nicklas Mathews",
         "github": "Nicklasmathews",
@@ -891,14 +412,13 @@
         "mail": "nicklasmathews93@gmail.com",
         "adresse": "Ane kan trines vej 32",
         "alder": 25,
-        "civilstatus": "i et forhold",
+        "civilstatus": "optaget",
         "tlf": 20409924,
         "facebook": "https://www.facebook.com/nicklas.mathews",
         "hobby": "Lokal tv",
-        "sex": "Mand",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/27459304_10215719747926277_8833590011063846360_n.jpg?_nc_cat=0&oh=ed311f09fc93029e3a753235dff1e4e9&oe=5BF08B57",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/27459304_10215719747926277_8833590011063846360_n.jpg?_nc_cat=0&oh=ed311f09fc93029e3a753235dff1e4e9&oe=5BF08B57"
+},
     {
         "navn": "Marck Olsen",
         "github": "Marck70",
@@ -910,25 +430,9 @@
         "tlf": "",
         "facebook": "https://www.facebook.com/marck.olsen",
         "hobby": "Løvens hule",
-        "sex": "Køleskab",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/22448083_10214083411030484_7094771498486504218_n.jpg?_nc_cat=0&oh=df142f952f199d62d80b5df05f6f4de2&oe=5BFA0922",
-        "": ""
-  },
-    {
-        "navn": "Njomza Rrahimi",
-        "github": "njom0001",
-        "website": "njomzarrahimi.com",
-        "mail": "njomzarrahimi@hotmail.com",
-        "adresse": "4681 Herfølge",
-        "alder": 20,
-        "civilstatus": "non of ya biz",
-        "tlf": 52821414,
-        "facebook": "https://www.facebook.com/xomxa?ref=bookmarks",
-        "hobby": "Mange ting",
-        "sex": "Strong independent woman",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/28167118_1964745377111132_4142468388497003975_n.jpg?_nc_cat=0&oh=290c78096fafd1f3051d8c5cc6ce28e8&oe=5BF0AEFB",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/22448083_10214083411030484_7094771498486504218_n.jpg?_nc_cat=0&oh=df142f952f199d62d80b5df05f6f4de2&oe=5BFA0922"
+},
     {
         "navn": "Morten Fuglevik",
         "github": "mort536a",
@@ -936,14 +440,13 @@
         "mail": "mortenfuglevik@workmail.com",
         "adresse": "Tunisvej 5 2770 kastrup",
         "alder": 21,
-        "civilstatus": "single and ready to mingle",
+        "civilstatus": "single",
         "tlf": 22432232,
         "facebook": "https://www.facebook.com/morty.nymann",
         "hobby": "Guitar",
         "sex": "M",
-        "billede": "https://i.imgur.com/mASWnDS.jpg",
-        "": ""
-  },
+        "billede": "https://i.imgur.com/mASWnDS.jpg"
+},
     {
         "navn": "Michelle Bang Rosendal",
         "github": "mich387i",
@@ -955,10 +458,9 @@
         "tlf": 40346406,
         "facebook": "https://www.facebook.com/michelle.b.rosendal",
         "hobby": "foto",
-        "sex": "pige",
-        "billede": "http://banggodt.dk/kea/selvportraet.jpeg",
-        "": ""
-  },
+        "sex": "F",
+        "billede": "http://banggodt.dk/kea/selvportraet.jpeg"
+},
     {
         "navn": "Caroline Bach Nyegaard",
         "github": "caro4202",
@@ -971,9 +473,8 @@
         "facebook": "https://www.facebook.com/caroline.nyegaard",
         "hobby": "",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13592178_10208574421190742_6612354391936693807_n.jpg?_nc_cat=0&oh=586869e6ab7b68677b2f03d9fbc956f4&oe=5BF68357",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13592178_10208574421190742_6612354391936693807_n.jpg?_nc_cat=0&oh=586869e6ab7b68677b2f03d9fbc956f4&oe=5BF68357"
+},
     {
         "navn": "Mathias Gebuhr",
         "github": "math7104",
@@ -981,44 +482,13 @@
         "mail": "math7104@stud.kea.dk",
         "adresse": "4030 Tune",
         "alder": 22,
-        "civilstatus": "Optaget",
+        "civilstatus": "optaget",
         "tlf": 53611085,
         "facebook": "https://www.facebook.com/mathias.k.gebuhr",
         "hobby": "Musik",
-        "sex": "Mand",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26814804_10215521820461248_99108093006749732_n.jpg?_nc_cat=0&oh=70b6395ef95b388887cf728d0efbc99b&oe=5BEFDD05",
-        "": ""
-  },
-    {
-        "navn": "Timmi Raaby",
-        "github": "timm0206",
-        "website": "timmiraaby.dk",
-        "mail": "timm0206@stud.kea.dk",
-        "adresse": "Saunte Bygade 15 3100 Hornbæk",
-        "alder": 22,
-        "civilstatus": "Single",
-        "tlf": 21420951,
-        "facebook": "https://www.facebook.com/timmi.raaby",
-        "hobby": "Trommer",
-        "sex": "Mand",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Aske Dahl Andersen",
-        "github": "Askedahl",
-        "website": "",
-        "mail": "dahl_76@hotmail.com",
-        "adresse": "tingbjerg",
-        "alder": 28,
-        "civilstatus": "single",
-        "tlf": 53667183,
-        "facebook": "https://www.facebook.com/holden.dahl.1",
-        "hobby": "",
-        "sex": "mand",
-        "billede": "",
-        "": ""
-  },
+        "sex": "M",
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26814804_10215521820461248_99108093006749732_n.jpg?_nc_cat=0&oh=70b6395ef95b388887cf728d0efbc99b&oe=5BEFDD05"
+},
     {
         "navn": "Mette Skov Nielsen",
         "github": "mskovn",
@@ -1030,10 +500,9 @@
         "tlf": 60756942,
         "facebook": "https://www.facebook.com/mette.s.nielsen.988",
         "hobby": "Fodbold, musik",
-        "sex": "kvinde",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/22195798_10210245800237088_4327478050157303815_n.jpg?_nc_cat=0&oh=cc8307797c2a5a05aef9a5d505f687b0&oe=5C2F0F18",
-        "": ""
-  },
+        "sex": "F",
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/22195798_10210245800237088_4327478050157303815_n.jpg?_nc_cat=0&oh=cc8307797c2a5a05aef9a5d505f687b0&oe=5C2F0F18"
+},
     {
         "navn": "Casper Handberg",
         "github": "RocktheCasper",
@@ -1046,54 +515,8 @@
         "facebook": "https://www.facebook.com/casper.handberg",
         "hobby": "Guitar",
         "sex": "M",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/18767779_10158800025130551_5464244771431113476_n.jpg?_nc_cat=0&oh=abe4f277847f4a16d8fd993d17d6f942&oe=5C36EC45",
-        "": ""
-  },
-    {
-        "navn": "Andreas Stephensen",
-        "github": "andr936j",
-        "website": "stephensen.it",
-        "mail": "andr936j@stud.kea.dk",
-        "adresse": "Ærtevej 16, 3.th",
-        "alder": 41,
-        "civilstatus": "Single",
-        "tlf": 50102626,
-        "facebook": "https://www.facebook.com/andreas.stephensen",
-        "hobby": "Rengøring",
-        "sex": "M",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "peter schmidt",
-        "github": "petey525",
-        "website": "",
-        "mail": "",
-        "adresse": "",
-        "alder": "",
-        "civilstatus": "",
-        "tlf": "",
-        "facebook": "",
-        "hobby": "",
-        "sex": "",
-        "billede": "",
-        "": ""
-  },
-    {
-        "navn": "Jannic Erik Koch",
-        "github": "Jann6207",
-        "website": "www.designbykoch.com",
-        "mail": "jannic.koch@protonmail.com",
-        "adresse": "Refshalevej 161 U. 1TV. 1, 1432 Kbh K",
-        "alder": "",
-        "civilstatus": "Single",
-        "tlf": 22919110,
-        "facebook": "https://www.facebook.com/jannickoch",
-        "hobby": "Øl & Hornmusik",
-        "sex": "Mand",
-        "billede": "https://cdn-images-1.medium.com/max/1600/1*-1gQfaaOFi1q69Bl1uZNEg.gif",
-        "": ""
-  },
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/18767779_10158800025130551_5464244771431113476_n.jpg?_nc_cat=0&oh=abe4f277847f4a16d8fd993d17d6f942&oe=5C36EC45"
+},
     {
         "navn": "Emma Lenstjerne",
         "github": "lenstjerne",
@@ -1101,13 +524,11 @@
         "mail": "emma1573@stud.kea.dk",
         "adresse": "Avnbøl alle 20, 2770, Kastrup",
         "alder": 23,
-        "civilstatus": "Single",
+        "civilstatus": "single",
         "tlf": 53341037,
         "facebook": "https://www.facebook.com/emma.lenstjerne",
         "hobby": "youtube 'n' chill",
         "sex": "F",
-        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26112120_10212601474583569_4787908715688265302_n.jpg?_nc_cat=0&oh=d7557e675e03afb5ad2285c4a4ec9ad9&oe=5BFA2970",
-        "": ""
-  }
-
+        "billede": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26112120_10212601474583569_4787908715688265302_n.jpg?_nc_cat=0&oh=d7557e675e03afb5ad2285c4a4ec9ad9&oe=5BFA2970"
+}
 ]
